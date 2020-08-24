@@ -1,0 +1,270 @@
+{
+  "basics": {
+    "name": "Souren Khetcho",
+    "label": "Software Engineer in 🌤️, hack3r @ 🌘",
+    "picture": "images/profile.jpg",
+    "x_title": "Glad that you are here!",
+    "summary": "Well over 6 year of experience in IT. Started hacking and developing in the cybersecurity space since I was 16. I have been writing software for the past 4 years using different laguages and technologies. Let's chat and hack!",
+    "location": {
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "Vancouver"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "SourenKhetcho",
+        "url": "https://twitter.com/SourenKhetcho",
+        "x_icon":"fab fa-2x fa-twitter-square"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sourenkhetcho",
+        "url": "https://www.linkedin.com/in/sourenkhetcho/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "skhetcho",
+        "url": "https://github.com/skhetcho",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bosch",
+      "position": "DevOps Engineer for automated driving",
+      "website": "https://www.bosch.hu",
+      "startDate": "2019-10-15",
+      "endDate": "",
+      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "highlights": []
+    },
+    {
+      "company": "Asseco PST",
+      "position": "DevOps Engineer",
+      "website": "https://www.pst.asseco.com",
+      "startDate": "2018-04-01",
+      "endDate": "2019-08-30",
+      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "highlights": []
+    },
+    {
+      "company": "Asseco PST",
+      "position": "Backend Developer",
+      "website": "https://www.pst.asseco.com",
+      "startDate": "2017-08-16",
+      "endDate": "",
+      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
+      "highlights": []
+    },
+    {
+      "company": "European GNSS Agency",
+      "position": "IT Support Technician",
+      "website": "https://www.gsa.europea.eu",
+      "startDate": "2016-05-01",
+      "endDate": "",
+      "leap":true,
+      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
+      "highlights": []
+    },
+    {
+      "company": "The Big Move",
+      "position": "",
+      "website": "",
+      "startDate": "2015-08-24",
+      "endDate": "",
+      "summary": "Moved as a teenager to Canada 🍁 with a big hope! and a pasion for computers. Finaly feeling the brutal war in Syria...",
+      "highlights": []
+    },
+    {
+      "company": "eq!",
+      "position": "",
+      "website": "",
+      "startDate": "2014-07-15",
+      "endDate": "",
+      "summary": "Flew the brutal war in Syria to Lebanon. A developing pasion to computers and cyber warfare ignited 🔥",
+      "highlights": []
+    },
+    {
+      "company": "Escaped!",
+      "position": "",
+      "website": "",
+      "startDate": "2014-06-15",
+      "endDate": "",
+      "summary": "Flew the brutal war in Syria to Lebanon. A developing pasion to computers and cyber warfare ignited 🔥",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Madeira",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Debian Based Linux Distros",
+      "level": "Advanced",
+      "imgURL": "debian",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Wireless Penetration Testing",
+      "level": "Advanced",
+      "imgURL": "./src/assets/debian.png",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Network/Device Penetration Testing",
+      "level": "Advanced",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Web-App Penetration Testing",
+      "level": "Basic",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Information Gathering",
+      "level": "Advanced",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Social Engineering",
+      "level": "Advanced",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Password Cracking",
+      "level": "Intermediate",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "IoT Security and Offensive Security",
+      "level": "Advanced",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "Arch Based Linux Distros",
+      "level": "Basic",
+      "keywords": ["Hacking"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "C++",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "React/React Native",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Firebase",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST APIs",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Googling",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "C",
+      "level": "Basic",
+      "keywords": ["Hardware"]
+    },
+    {
+      "name": "MIPS Assembly",
+      "level": "Basic",
+      "keywords": ["Hardware"]
+    },
+    {
+      "name": "Arduino",
+      "level": "Basic",
+      "keywords": ["Hardware"]
+    },
+    {
+      "name": "Raspberry Pi",
+      "level": "Basic",
+      "keywords": ["Hardware"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Armenian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Coffee Addict",
+      "icon_family": "fab",
+      "x_icon": "node-js"
+    },
+    {
+      "name": "Dog lover",
+      "icon_family": "fas",
+      "x_icon": "dog"
+    },
+    {
+      "name": "Foodie",
+      "icon_family": "fas",
+      "x_icon": "utensils"
+    },
+    {
+      "name": "Live in the now",
+      "icon_family": "fas",
+      "x_icon": "brain"
+    }
+  ]
+}
